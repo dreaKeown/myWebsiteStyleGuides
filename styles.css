@@ -1,4 +1,19 @@
+h1 {
+    font-weight: 900;
+    font-size: 36px;
+    
+    }
+    
+h2 {
+    font-weight: 700;
+    font-size: 32px;
+    margin: 5px;
+
+}
+
+
 h1, h2 {
+    font-family: helvetica, sans-serif;
     text-align: center;
 }
 
@@ -28,6 +43,7 @@ text-align: center;
 display: inline-block;
 margin: 30px;
 padding-top: 15px;
+font-family: monospace;
 }
 
 #veryLightRed {
