@@ -1,0 +1,75 @@
+h1, h2 {
+    text-align: center;
+}
+
+body {
+    background-color: linen;
+}
+
+.section {
+    width: 800px;
+    height: 400px;
+    border: solid 1px gray;
+    border-radius: 15px;
+    margin: 50px auto;
+    background-color: white;
+    
+}
+
+#colorBoxesContainer {
+    width: 800px;
+    margin: 0px auto;
+}
+
+.colorBox {
+width: 200px;
+height: 100px;
+text-align: center;
+display: inline-block;
+margin: 30px;
+padding-top: 15px;
+}
+
+#veryLightRed {
+    background-color: #FF9AA2;
+}
+#lightRed {
+    background-color: #FFB7B2;
+}
+#lightOrange {
+    background-color: #FFDAC1;
+}
+#veryLightGreen {
+    background-color: #E2F0CB;
+}
+#lightGreen {
+    background-color: #B5EAD7;
+}
+#lightBlue {
+    background-color: #C7CEEA;
+}
+
+
+.fonts {
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+
+#zenLoop {
+    font-family: "Zen Loop", cursive;
+} 
+
+#fuggles {
+    font-family: fuggles, cursive;
+    }
+
+.underline {
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
+
